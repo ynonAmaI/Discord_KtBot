@@ -1,1 +1,1 @@
-worker: Bot.kt
+worker: Launcher.kt
